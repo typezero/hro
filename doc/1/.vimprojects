@@ -1,0 +1,22 @@
+
+hro=~/hro CD=~/hro/source filter="*" {
+ README
+ doc=doc {
+  0.0.1
+ }
+ source=source {
+  Application.hs
+  Creature.hs
+  Game.hs
+  ID.hs
+  Main.hs
+  Player.hs
+  Skill.hs
+  SkillDSL.hs
+  SkillInfo.hs
+  Stats.hs
+  Test.hs
+  TestSkills.hs
+  Utility.hs
+ }
+}

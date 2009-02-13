@@ -4,7 +4,7 @@ module Utility
         MessageType(..)
     ) where
 
-import Text.PrettyPrint.ANSI.Leijen
+import Render
 
 data MessageType = Normal | Game | System | Debug | Warning | Error
 
